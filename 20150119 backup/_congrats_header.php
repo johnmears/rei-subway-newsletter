@@ -1,0 +1,2 @@
+<layout label="Header - Congrats">
+<img editable="true" src="images/bg_congrats_header.png" width="600" height="270" alt="Congrats!" class="flex-image" hspace="0" vspace="0" style="display:block;"></layout>    

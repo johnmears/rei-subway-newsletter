@@ -1,0 +1,2 @@
+<layout label="Header - Store Rankings">
+<img editable="true" src="images/bg_rankings_header.png" width="600" height="240" alt="Store Rankings" class="flex-image" hspace="0" vspace="0" style="display:block;"></layout>    

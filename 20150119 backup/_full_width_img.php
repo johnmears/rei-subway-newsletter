@@ -1,0 +1,2 @@
+<layout label="Images - Full Width Image">
+<img editable src="images/placeholder-600x400.jpg" width="600" label="The Full Width Image" class="flex-image" hspace="0" vspace="0" style="display:block;"></layout>    

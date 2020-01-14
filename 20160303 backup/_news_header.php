@@ -1,0 +1,2 @@
+<layout label="Header - News">
+<img editable="true" src="images/bg_news_header.png" width="600" height="140" alt="News You Can Use" class="flex-image" hspace="0" vspace="0" style="display:block;"></layout>
